@@ -15,7 +15,7 @@ const proofPoints = [
   {
     icon: Code2,
     title: "Problem Solving (DSA)",
-    desc: "Solved 400+ problems with consistent practice, focusing on data structures, algorithms, and edge-case thinking.",
+    desc: "Solved 400+ problems on leetcode with consistent practice, focusing on data structures, algorithms, and edge-case thinking.",
   },
   {
     icon: Database,
