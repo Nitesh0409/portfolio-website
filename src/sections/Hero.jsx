@@ -84,7 +84,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"
+                href="https://www.linkedin.com/in/nitesh-kkanojia0409"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-transparent px-7 py-4 text-sm font-medium text-white transition hover:border-white/30"
@@ -94,7 +94,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="https://leetcode.com/u/Nitesh0409/"
+                href="https://leetcode.com/u/Nitesh-0409/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-transparent px-7 py-4 text-sm font-medium text-white transition hover:border-white/30"

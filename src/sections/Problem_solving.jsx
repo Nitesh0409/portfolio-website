@@ -69,7 +69,7 @@ const DSA = () => {
             </a>
 
             <a
-              href="https://leetcode.com/u/Nitesh0409/"
+              href="https://leetcode.com/u/Nitesh-0409/"
               target="_blank"
               className="inline-flex items-center gap-3 rounded-xl border border-accent/20
                          px-8 py-4 text-accent font-semibold
