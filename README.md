@@ -13,7 +13,7 @@ Designed to highlight **backend development, problem-solving, and practical web 
 
 ## 💡 About
 
-- 3rd-year **Electrical Engineering** student at IIT Jodhpur  
+- **Electrical Engineering** student at IIT Jodhpur  
 - Aspiring **SDE intern** with focus on **DSA & backend fundamentals**  
 - Experience building **full-stack web applications** with clean, maintainable code  
 
