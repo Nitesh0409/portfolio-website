@@ -37,7 +37,7 @@ const otherProjects = [
     title: "Handwritten Digit Recognition",
     desc: "Course project where I led a team of 6 to implement and compare multiple machine learning algorithms for handwritten digit recognition, focusing on planning, task distribution, and model evaluation.",
     tags: ["Python", "Machine Learning", "Scikit-learn"],
-    github: "https://github.com/Nitesh0409/prml_project_page",
+    github: "https://github.com/Nitesh0409/PRML-Apr2025",
   },
   {
     title: "Finger Counter",
