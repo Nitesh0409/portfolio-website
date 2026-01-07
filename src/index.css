@@ -15,7 +15,7 @@
   }
 
   body {
-    background-color: var(--color-dark);
+    background-color: #0e0e0ef0;
     color: #e5e7eb;
     font-family: var(--font-sans);
     -webkit-font-smoothing: antialiased;

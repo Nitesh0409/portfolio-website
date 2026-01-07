@@ -12,7 +12,7 @@ function App() {
       <Hero />
 
       {/* Main Sections */}
-      <div className="flex flex-col gap-28">
+      <div className="flex flex-col gap-12">
         <Section>
           <About />
         </Section>

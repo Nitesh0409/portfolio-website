@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, ExternalLink } from "lucide-react";
+import { Github, ExternalLink, FileText } from "lucide-react";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
@@ -38,6 +38,8 @@ const otherProjects = [
     desc: "Course project where I led a team of 6 to implement and compare multiple machine learning algorithms for handwritten digit recognition, focusing on planning, task distribution, and model evaluation.",
     tags: ["Python", "Machine Learning", "Scikit-learn"],
     github: "https://github.com/Nitesh0409/PRML-Apr2025",
+    live: "https://handwritten-digit-recognition-vjhi.vercel.app/",
+    page: "https://nitesh0409.github.io/prml_project_page/",
   },
   {
     title: "Finger Counter",
@@ -145,14 +147,43 @@ const Projects = () => {
               <h4 className="text-lg font-semibold text-white">
                 {project.title}
               </h4>
-              <a
-                href={project.github}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-400 hover:text-white transition-colors"
-              >
-                <Github size={18} />
-              </a>
+              <div className="flex gap-3 text-gray-400">
+                {project.github && (
+                  <a
+                    href={project.github}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Source Code"
+                    className="hover:text-white transition-colors"
+                  >
+                    <Github size={18} />
+                  </a>
+                )}
+
+                {project.live && (
+                  <a
+                    href={project.live}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Live Demo"
+                    className="hover:text-white transition-colors"
+                  >
+                    <ExternalLink size={18} />
+                  </a>
+                )}
+
+                {project.page && (
+                  <a
+                    href={project.page}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Project Page"
+                    className="hover:text-white transition-colors"
+                  >
+                    <FileText size={18} />
+                  </a>
+                )}
+              </div>
             </div>
 
             <p className="text-sm text-gray-400 leading-relaxed mb-4">

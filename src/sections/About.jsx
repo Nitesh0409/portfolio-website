@@ -32,12 +32,6 @@ const About = () => {
           transition={{ duration: 0.8 }}
           className="relative group flex justify-center md:justify-start"
         >
-          <div
-            className="absolute -bottom-6 -right-6 w-105 h-130 rounded-2xl
-            bg-linear-to-tr from-accent/40 via-secondary/30 to-accent/20 
-            blur-[70px] opacity-0 group-hover:opacity-100 transition-opacity duration-500 -z-10"
-          />
-
           <div className="aspect-4/5 max-w-95 relative rounded-2xl overflow-hidden border border-gray-800 shadow-black/30 shadow-lg transition-transform duration-500 group-hover:scale-105">
             <img
               src="/profile.png"
@@ -45,7 +39,7 @@ const About = () => {
               className="w-full h-full object-cover transition-all duration-700"
             />
 
-            <div className="absolute inset-0 rounded-2xl border border-accent/30 opacity-0 group-hover:opacity-100 shadow-[0_0_25px_rgba(255,165,0,0.2)] transition-all duration-700 pointer-events-none" />
+            <div className="absolute inset-0 rounded-2xl border border-accent/30 opacity-0 group-hover:opacity-100 shadow-[0_0_30px_rgba(255,255,255,0.08)] transition-all duration-700 pointer-events-none" />
           </div>
         </motion.div>
 
