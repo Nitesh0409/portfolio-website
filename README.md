@@ -5,13 +5,13 @@ Designed to highlight **backend development, problem-solving, and practical web 
 
 ---
 
-## 🚀 Live Demo
+## Website
 
 [View Portfolio](https://nitesh0409-portfolio.netlify.app/)
 
 ---
 
-## 💡 About
+## About
 
 - **Electrical Engineering** student at IIT Jodhpur  
 - Aspiring **SDE intern** with focus on **DSA & backend fundamentals**  
@@ -19,7 +19,7 @@ Designed to highlight **backend development, problem-solving, and practical web 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:** React (Vite), Tailwind CSS, Framer Motion  
 **Backend:** Node.js, MongoDB  
@@ -39,7 +39,7 @@ Designed to highlight **backend development, problem-solving, and practical web 
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [niteshkkanojia@gmail.com](mailto:niteshkkanojia@gmail.com)  
 - GitHub: [Nitesh0409](https://github.com/Nitesh0409)  
