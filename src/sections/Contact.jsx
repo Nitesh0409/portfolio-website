@@ -18,7 +18,6 @@ const Contact = () => {
         className="mb-20 max-w-3xl"
       >
         <h2 className="flex items-center gap-4 text-3xl md:text-4xl font-bold">
-          <span className="text-accent font-mono text-2xl">05.</span>
           Get In Touch
           <span className="h-px flex-1 bg-white/10" />
         </h2>
@@ -120,14 +119,6 @@ const Contact = () => {
           </div>
         </motion.div>
       </div>
-
-      {/* Footer */}
-      <footer className="mt-28 border-t border-white/10 pt-8 flex flex-col md:flex-row justify-center gap-6 text-sm text-gray-500">
-        <p className="font-mono">
-          © {new Date().getFullYear()} Built by{" "}
-          <span className="text-accent font-semibold">Nitesh</span>
-        </p>
-      </footer>
     </section>
   );
 };

@@ -18,7 +18,6 @@ const DSA = () => {
         className="mb-16 max-w-3xl"
       >
         <h2 className="flex items-center gap-4 text-3xl md:text-4xl font-bold">
-          <span className="text-accent font-mono text-2xl">03.</span>
           DSA Practice
           <span className="h-px flex-1 bg-white/10" />
         </h2>

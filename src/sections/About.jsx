@@ -57,7 +57,6 @@ const About = () => {
           transition={{ duration: 0.8 }}
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-8 flex items-center gap-4">
-            <span className="text-accent text-2xl font-mono">01.</span>
             About
             <div className="h-px bg-gray-800 grow" />
           </h2>
