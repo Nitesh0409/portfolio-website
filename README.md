@@ -42,8 +42,8 @@ Designed to highlight **backend development, problem-solving, and practical web 
 ## Contact
 
 - Email: [niteshkkanojia@gmail.com](mailto:niteshkkanojia@gmail.com)  
-- GitHub: [Nitesh0409](https://github.com/Nitesh0409)  
-- LinkedIn: [Nitesh K. Kanojia](https://www.linkedin.com/in/nitesh-kkanojia0409)  
+- GitHub: [https://github.com/Nitesh0409](https://github.com/Nitesh0409)  
+- LinkedIn: [https://www.linkedin.com/in/nitesh-kkanojia0409](https://www.linkedin.com/in/nitesh-kkanojia0409)  
 
 ---
 
